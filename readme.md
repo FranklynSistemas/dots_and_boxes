@@ -1,22 +1,10 @@
-# Repositorio Electiva Profesional III
+# Dots and Boxes
 
-Repositorio asignatura Electiva Profesional III
+Juego en el cual el usuario jugará versus el PC, con el objetivo de lograr completar la mayor cantidad de cuadrados.
 
-### Enlaces.
+![DAB](https://dl.dropboxusercontent.com/u/181689/Dots.gif)
 
-* Slack: https://unicundi.slack.com/
-* DropBox: https://goo.gl/murtJG
-* Cloud9: https://c9.io/
-* Uso Cliente GitHub (Windows): https://www.youtube.com/watch?v=MuNnhLATJUU
-* Publicar en GitHub: https://youtu.be/D6VFF8Rsyao
-* Desplegar aplicaciones en GitHub: http://drastudio.github.io/url-generator/
-* Desplegar aplicaciones en GDrive: https://support.google.com/drive/answer/2881970?hl=es (Leer Aviso)
-
-### Transmisiones.
-
-#### 10 de Septiembre de 2015
-
-https://youtu.be/BIZtNKMbNYM
+Realizado haciendo uso de [canvas]
 
 ### Autor
 Jorge Rubaino
@@ -26,3 +14,4 @@ License
 ----
 MIT
 [@ostjh]:https://twitter.com/ostjh
+[canvas]:http://www.w3schools.com/html/html5_canvas.asp
